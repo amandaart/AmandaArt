@@ -1,2 +1,2 @@
 # AmandaArt
-AAR
+Testing part
